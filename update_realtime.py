@@ -48,7 +48,7 @@ def update_dark_data(city_dict,temp_df):
 
     his_env_add  = WD.get_dark_weather(city_dict["gps"], start_dt, end_dt)    
     
-    return pd.concat([temp_df.dropna()[:start_dt.strftime("%Y/%m/%d")],his_env_add[his_env_add.index < datetime.now()]])
+    return pd.concat([temp_df.dropna()[:(start_dt-timedelta(days=1)).strftime("%Y/%m/%d")],his_env_add[his_env_add.index < datetime.now()]])
 
 temp_df = Util.read_csv("/home/shuailong/update_realtime/GZ_his_dark.csv")
 GZ_his_dark = update_dark_data(city_dict, temp_df)
