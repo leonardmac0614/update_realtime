@@ -1,9 +1,9 @@
 ,TemperatureC,Humidity,Conditions
 2018-06-03 00:00:00+08:00,25.8,91.0,Possible Light Rain
-2018-06-03 01:00:00+08:00,25.4,91.0,Possible Light Rain
-2018-06-03 02:00:00+08:00,24.8,92.0,Possible Light Rain
-2018-06-03 03:00:00+08:00,24.0,93.0,Humid and Mostly Cloudy
-2018-06-03 04:00:00+08:00,23.5,94.0,Humid and Overcast
+2018-06-03 01:00:00+08:00,25.1,92.0,Possible Light Rain
+2018-06-03 02:00:00+08:00,24.5,93.0,Possible Light Rain
+2018-06-03 03:00:00+08:00,23.9,94.0,Humid and Mostly Cloudy
+2018-06-03 04:00:00+08:00,23.5,95.0,Humid and Mostly Cloudy
 2018-06-03 05:00:00+08:00,23.6,94.0,Humid and Overcast
 2018-06-03 06:00:00+08:00,24.1,92.0,Humid and Overcast
 2018-06-03 07:00:00+08:00,24.8,90.0,Humid and Overcast
