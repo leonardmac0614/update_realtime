@@ -4,14 +4,14 @@
 2018-06-28 02:00:00+08:00,27.3,83.0,Humid and Partly Cloudy
 2018-06-28 03:00:00+08:00,27.1,84.0,Humid and Partly Cloudy
 2018-06-28 04:00:00+08:00,26.9,85.0,Humid and Partly Cloudy
-2018-06-28 05:00:00+08:00,26.2,88.0,Humid and Partly Cloudy
-2018-06-28 06:00:00+08:00,26.4,88.0,Humid
+2018-06-28 05:00:00+08:00,26.6,86.0,Humid and Partly Cloudy
+2018-06-28 06:00:00+08:00,26.7,86.0,Humid
 2018-06-28 07:00:00+08:00,27.6,82.0,Humid
 2018-06-28 08:00:00+08:00,28.6,75.0,Humid and Mostly Cloudy
-2018-06-28 09:00:00+08:00,29.7,70.0,Humid and Partly Cloudy
-2018-06-28 10:00:00+08:00,30.7,65.0,Humid and Partly Cloudy
-2018-06-28 11:00:00+08:00,31.6,61.0,Humid and Partly Cloudy
-2018-06-28 12:00:00+08:00,32.3,57.99999999999999,Humid and Partly Cloudy
+2018-06-28 09:00:00+08:00,29.7,73.0,Humid and Mostly Cloudy
+2018-06-28 10:00:00+08:00,30.8,68.0,Humid and Mostly Cloudy
+2018-06-28 11:00:00+08:00,31.8,62.0,Humid and Partly Cloudy
+2018-06-28 12:00:00+08:00,32.4,57.99999999999999,Humid and Partly Cloudy
 2018-06-28 13:00:00+08:00,33.3,54.0,Humid and Partly Cloudy
 2018-06-28 14:00:00+08:00,34.4,50.0,Humid and Partly Cloudy
 2018-06-28 15:00:00+08:00,34.9,48.0,Humid and Partly Cloudy
@@ -25,25 +25,25 @@
 2018-06-28 23:00:00+08:00,28.4,75.0,Humid and Partly Cloudy
 2018-06-29 00:00:00+08:00,27.8,78.0,Humid and Partly Cloudy
 2018-06-29 01:00:00+08:00,27.2,79.0,Humid and Mostly Cloudy
-2018-06-29 02:00:00+08:00,26.7,80.0,Humid and Mostly Cloudy
-2018-06-29 03:00:00+08:00,26.0,84.0,Humid and Overcast
-2018-06-29 04:00:00+08:00,25.4,88.0,Humid and Overcast
-2018-06-29 05:00:00+08:00,25.2,90.0,Humid and Overcast
-2018-06-29 06:00:00+08:00,25.7,89.0,Humid and Overcast
-2018-06-29 07:00:00+08:00,26.6,86.0,Humid and Overcast
-2018-06-29 08:00:00+08:00,28.0,80.0,Humid and Overcast
+2018-06-29 02:00:00+08:00,26.8,80.0,Humid and Mostly Cloudy
+2018-06-29 03:00:00+08:00,26.2,83.0,Humid and Overcast
+2018-06-29 04:00:00+08:00,25.6,87.0,Humid and Overcast
+2018-06-29 05:00:00+08:00,25.4,89.0,Humid and Overcast
+2018-06-29 06:00:00+08:00,25.9,88.0,Humid and Overcast
+2018-06-29 07:00:00+08:00,26.7,85.0,Humid and Overcast
+2018-06-29 08:00:00+08:00,28.1,79.0,Humid and Overcast
 2018-06-29 09:00:00+08:00,29.3,74.0,Humid and Overcast
 2018-06-29 10:00:00+08:00,30.8,67.0,Humid and Mostly Cloudy
 2018-06-29 11:00:00+08:00,31.8,63.0,Humid and Overcast
 2018-06-29 12:00:00+08:00,32.6,57.99999999999999,Humid and Overcast
 2018-06-29 13:00:00+08:00,33.6,53.0,Humid and Mostly Cloudy
 2018-06-29 14:00:00+08:00,34.5,50.0,Humid and Mostly Cloudy
-2018-06-29 15:00:00+08:00,33.7,52.0,Humid and Mostly Cloudy
-2018-06-29 16:00:00+08:00,32.3,56.99999999999999,Possible Light Rain
+2018-06-29 15:00:00+08:00,33.8,52.0,Humid and Mostly Cloudy
+2018-06-29 16:00:00+08:00,32.4,56.99999999999999,Possible Light Rain
 2018-06-29 17:00:00+08:00,31.2,62.0,Possible Light Rain
 2018-06-29 18:00:00+08:00,31.0,63.0,Possible Light Rain
 2018-06-29 19:00:00+08:00,30.5,66.0,Humid and Mostly Cloudy
-2018-06-29 20:00:00+08:00,29.9,68.0,Humid and Partly Cloudy
+2018-06-29 20:00:00+08:00,29.8,68.0,Humid and Partly Cloudy
 2018-06-29 21:00:00+08:00,29.2,71.0,Humid and Partly Cloudy
 2018-06-29 22:00:00+08:00,28.7,72.0,Humid and Partly Cloudy
 2018-06-29 23:00:00+08:00,28.2,74.0,Humid and Mostly Cloudy
