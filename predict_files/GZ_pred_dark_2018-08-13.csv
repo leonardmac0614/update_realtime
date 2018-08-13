@@ -1,49 +1,49 @@
 ,TemperatureC,Humidity,Conditions
-2018-08-13 00:00:00+08:00,28.3,80.0,Humid and Overcast
-2018-08-13 01:00:00+08:00,27.5,84.0,Humid and Overcast
-2018-08-13 02:00:00+08:00,27.3,85.0,Humid and Mostly Cloudy
-2018-08-13 03:00:00+08:00,27.0,86.0,Humid and Mostly Cloudy
-2018-08-13 04:00:00+08:00,26.7,91.0,Humid and Mostly Cloudy
-2018-08-13 05:00:00+08:00,26.3,93.0,Humid and Partly Cloudy
+2018-08-13 00:00:00+08:00,28.1,81.0,Humid and Overcast
+2018-08-13 01:00:00+08:00,27.4,84.0,Humid and Overcast
+2018-08-13 02:00:00+08:00,27.1,86.0,Humid and Mostly Cloudy
+2018-08-13 03:00:00+08:00,26.9,87.0,Humid and Mostly Cloudy
+2018-08-13 04:00:00+08:00,26.6,91.0,Humid and Mostly Cloudy
+2018-08-13 05:00:00+08:00,26.2,93.0,Humid and Partly Cloudy
 2018-08-13 06:00:00+08:00,26.5,89.0,Humid and Mostly Cloudy
-2018-08-13 07:00:00+08:00,27.5,81.0,Humid and Mostly Cloudy
-2018-08-13 08:00:00+08:00,28.5,79.0,Humid and Partly Cloudy
-2018-08-13 09:00:00+08:00,30.4,71.0,Humid and Partly Cloudy
-2018-08-13 10:00:00+08:00,31.7,64.0,Humid and Partly Cloudy
-2018-08-13 11:00:00+08:00,33.4,59.0,Humid and Partly Cloudy
-2018-08-13 12:00:00+08:00,34.3,56.00000000000001,Humid and Partly Cloudy
-2018-08-13 13:00:00+08:00,34.4,56.00000000000001,Possible Light Rain
-2018-08-13 14:00:00+08:00,34.1,57.99999999999999,Possible Light Rain
-2018-08-13 15:00:00+08:00,33.3,61.0,Rain
-2018-08-13 16:00:00+08:00,32.5,64.0,Rain
-2018-08-13 17:00:00+08:00,32.0,66.0,Rain
-2018-08-13 18:00:00+08:00,31.1,67.0,Possible Light Rain
-2018-08-13 19:00:00+08:00,30.1,69.0,Humid and Overcast
-2018-08-13 20:00:00+08:00,29.3,71.0,Humid and Mostly Cloudy
-2018-08-13 21:00:00+08:00,28.8,73.0,Humid and Mostly Cloudy
-2018-08-13 22:00:00+08:00,28.4,74.0,Humid and Mostly Cloudy
-2018-08-13 23:00:00+08:00,28.0,76.0,Humid and Mostly Cloudy
-2018-08-14 00:00:00+08:00,27.6,78.0,Humid and Mostly Cloudy
-2018-08-14 01:00:00+08:00,27.3,80.0,Humid and Mostly Cloudy
-2018-08-14 02:00:00+08:00,26.8,83.0,Humid and Mostly Cloudy
-2018-08-14 03:00:00+08:00,25.8,88.0,Humid and Mostly Cloudy
-2018-08-14 04:00:00+08:00,25.1,92.0,Humid and Mostly Cloudy
-2018-08-14 05:00:00+08:00,24.8,94.0,Humid and Overcast
-2018-08-14 06:00:00+08:00,25.3,92.0,Humid and Overcast
-2018-08-14 07:00:00+08:00,26.2,89.0,Humid and Mostly Cloudy
-2018-08-14 08:00:00+08:00,27.4,84.0,Humid and Mostly Cloudy
-2018-08-14 09:00:00+08:00,29.2,77.0,Humid and Mostly Cloudy
-2018-08-14 10:00:00+08:00,31.1,70.0,Humid and Mostly Cloudy
-2018-08-14 11:00:00+08:00,32.4,65.0,Humid and Overcast
-2018-08-14 12:00:00+08:00,33.3,61.0,Humid and Overcast
-2018-08-14 13:00:00+08:00,33.8,57.99999999999999,Humid and Overcast
-2018-08-14 14:00:00+08:00,34.0,56.00000000000001,Humid and Overcast
-2018-08-14 15:00:00+08:00,33.8,56.00000000000001,Humid and Overcast
-2018-08-14 16:00:00+08:00,33.5,57.99999999999999,Humid and Overcast
-2018-08-14 17:00:00+08:00,32.9,59.0,Humid and Overcast
-2018-08-14 18:00:00+08:00,31.8,63.0,Humid and Overcast
-2018-08-14 19:00:00+08:00,30.0,68.0,Humid and Overcast
-2018-08-14 20:00:00+08:00,28.6,74.0,Humid and Overcast
-2018-08-14 21:00:00+08:00,27.8,78.0,Humid and Overcast
-2018-08-14 22:00:00+08:00,27.3,81.0,Humid and Overcast
-2018-08-14 23:00:00+08:00,26.8,83.0,Possible Light Rain
+2018-08-13 07:00:00+08:00,27.4,81.0,Humid and Mostly Cloudy
+2018-08-13 08:00:00+08:00,28.5,80.0,Humid and Partly Cloudy
+2018-08-13 09:00:00+08:00,30.4,72.0,Humid and Partly Cloudy
+2018-08-13 10:00:00+08:00,31.9,65.0,Humid and Partly Cloudy
+2018-08-13 11:00:00+08:00,33.6,59.0,Humid and Partly Cloudy
+2018-08-13 12:00:00+08:00,34.6,56.00000000000001,Humid and Partly Cloudy
+2018-08-13 13:00:00+08:00,34.8,56.99999999999999,Humid and Partly Cloudy
+2018-08-13 14:00:00+08:00,34.8,56.99999999999999,Humid and Partly Cloudy
+2018-08-13 15:00:00+08:00,33.9,59.0,Humid and Mostly Cloudy
+2018-08-13 16:00:00+08:00,32.6,63.0,Possible Light Rain
+2018-08-13 17:00:00+08:00,31.5,67.0,Rain
+2018-08-13 18:00:00+08:00,31.1,68.0,Possible Light Rain
+2018-08-13 19:00:00+08:00,30.6,69.0,Humid and Overcast
+2018-08-13 20:00:00+08:00,29.9,71.0,Humid and Mostly Cloudy
+2018-08-13 21:00:00+08:00,29.2,74.0,Humid and Mostly Cloudy
+2018-08-13 22:00:00+08:00,28.5,77.0,Humid and Mostly Cloudy
+2018-08-13 23:00:00+08:00,27.9,79.0,Humid and Mostly Cloudy
+2018-08-14 00:00:00+08:00,27.4,81.0,Humid and Mostly Cloudy
+2018-08-14 01:00:00+08:00,26.9,83.0,Humid and Mostly Cloudy
+2018-08-14 02:00:00+08:00,26.4,85.0,Humid and Mostly Cloudy
+2018-08-14 03:00:00+08:00,25.7,88.0,Humid and Mostly Cloudy
+2018-08-14 04:00:00+08:00,24.3,96.0,Humid and Mostly Cloudy
+2018-08-14 05:00:00+08:00,24.0,97.0,Humid and Overcast
+2018-08-14 06:00:00+08:00,24.9,92.0,Humid and Overcast
+2018-08-14 07:00:00+08:00,26.2,87.0,Humid and Mostly Cloudy
+2018-08-14 08:00:00+08:00,27.7,81.0,Humid and Mostly Cloudy
+2018-08-14 09:00:00+08:00,28.9,76.0,Humid and Mostly Cloudy
+2018-08-14 10:00:00+08:00,30.1,70.0,Humid and Mostly Cloudy
+2018-08-14 11:00:00+08:00,31.0,67.0,Humid and Overcast
+2018-08-14 12:00:00+08:00,32.0,64.0,Humid and Overcast
+2018-08-14 13:00:00+08:00,32.8,61.0,Humid and Overcast
+2018-08-14 14:00:00+08:00,33.3,59.0,Humid and Overcast
+2018-08-14 15:00:00+08:00,33.1,60.0,Humid and Overcast
+2018-08-14 16:00:00+08:00,32.6,61.0,Humid and Overcast
+2018-08-14 17:00:00+08:00,31.9,63.0,Humid and Overcast
+2018-08-14 18:00:00+08:00,31.1,65.0,Humid and Overcast
+2018-08-14 19:00:00+08:00,29.9,68.0,Humid and Overcast
+2018-08-14 20:00:00+08:00,29.0,71.0,Humid and Overcast
+2018-08-14 21:00:00+08:00,28.5,73.0,Humid and Overcast
+2018-08-14 22:00:00+08:00,28.2,74.0,Humid and Overcast
+2018-08-14 23:00:00+08:00,28.0,74.0,Humid and Overcast
