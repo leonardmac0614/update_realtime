@@ -1,9 +1,9 @@
 ,TemperatureC,Humidity,Conditions
 2018-09-03 00:00:00+08:00,25.9,89.0,Humid and Partly Cloudy
-2018-09-03 01:00:00+08:00,25.7,90.0,Humid and Partly Cloudy
-2018-09-03 02:00:00+08:00,25.3,90.0,Humid and Partly Cloudy
-2018-09-03 03:00:00+08:00,24.5,93.0,Humid and Partly Cloudy
-2018-09-03 04:00:00+08:00,24.1,94.0,Humid and Partly Cloudy
+2018-09-03 01:00:00+08:00,25.9,89.0,Humid and Partly Cloudy
+2018-09-03 02:00:00+08:00,25.6,90.0,Humid and Partly Cloudy
+2018-09-03 03:00:00+08:00,24.8,93.0,Humid and Partly Cloudy
+2018-09-03 04:00:00+08:00,24.2,95.0,Humid and Partly Cloudy
 2018-09-03 05:00:00+08:00,24.1,95.0,Humid and Partly Cloudy
 2018-09-03 06:00:00+08:00,24.2,95.0,Humid and Partly Cloudy
 2018-09-03 07:00:00+08:00,24.8,92.0,Humid and Partly Cloudy
@@ -14,7 +14,7 @@
 2018-09-03 12:00:00+08:00,29.7,69.0,Humid and Partly Cloudy
 2018-09-03 13:00:00+08:00,30.4,66.0,Humid and Partly Cloudy
 2018-09-03 14:00:00+08:00,31.0,63.0,Humid and Partly Cloudy
-2018-09-03 15:00:00+08:00,32.4,59.0,Humid and Partly Cloudy
+2018-09-03 15:00:00+08:00,31.1,63.0,Humid and Partly Cloudy
 2018-09-03 16:00:00+08:00,32.1,60.0,Humid and Mostly Cloudy
 2018-09-03 17:00:00+08:00,31.5,62.0,Humid and Mostly Cloudy
 2018-09-03 18:00:00+08:00,30.3,67.0,Humid and Mostly Cloudy
