@@ -1,10 +1,10 @@
 ,TemperatureC,Humidity,Conditions
 2018-09-05 00:00:00+08:00,28.9,79.0,Humid and Overcast
 2018-09-05 01:00:00+08:00,28.9,79.0,Humid and Overcast
-2018-09-05 02:00:00+08:00,28.3,81.0,Humid and Overcast
-2018-09-05 03:00:00+08:00,27.4,83.0,Humid and Overcast
-2018-09-05 04:00:00+08:00,26.7,84.0,Humid and Overcast
-2018-09-05 05:00:00+08:00,26.5,85.0,Humid and Overcast
+2018-09-05 02:00:00+08:00,28.9,79.0,Humid and Overcast
+2018-09-05 03:00:00+08:00,28.1,82.0,Humid and Overcast
+2018-09-05 04:00:00+08:00,27.2,84.0,Humid and Overcast
+2018-09-05 05:00:00+08:00,26.7,85.0,Humid and Overcast
 2018-09-05 06:00:00+08:00,26.5,86.0,Humid and Overcast
 2018-09-05 07:00:00+08:00,27.1,84.0,Humid and Overcast
 2018-09-05 08:00:00+08:00,28.5,78.0,Humid and Mostly Cloudy
@@ -16,7 +16,7 @@
 2018-09-05 14:00:00+08:00,33.2,57.99999999999999,Humid and Overcast
 2018-09-05 15:00:00+08:00,32.9,59.0,Humid and Overcast
 2018-09-05 16:00:00+08:00,32.7,61.0,Possible Light Rain
-2018-09-05 17:00:00+08:00,32.5,62.0,Possible Light Rain
+2018-09-05 17:00:00+08:00,32.2,63.0,Possible Light Rain
 2018-09-05 18:00:00+08:00,31.4,65.0,Possible Light Rain
 2018-09-05 19:00:00+08:00,29.9,69.0,Humid and Overcast
 2018-09-05 20:00:00+08:00,29.0,71.0,Humid and Overcast
