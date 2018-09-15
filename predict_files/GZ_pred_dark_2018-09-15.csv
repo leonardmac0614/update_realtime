@@ -13,37 +13,37 @@
 2018-09-15 11:00:00+08:00,34.9,44.0,Breezy
 2018-09-15 12:00:00+08:00,35.9,39.0,Breezy
 2018-09-15 13:00:00+08:00,35.9,39.0,Partly Cloudy
-2018-09-15 14:00:00+08:00,36.3,39.0,Partly Cloudy
-2018-09-15 15:00:00+08:00,36.2,40.0,Partly Cloudy
-2018-09-15 16:00:00+08:00,36.1,42.0,Mostly Cloudy
-2018-09-15 17:00:00+08:00,34.9,46.0,Mostly Cloudy
-2018-09-15 18:00:00+08:00,34.2,47.0,Mostly Cloudy
-2018-09-15 19:00:00+08:00,32.9,50.0,Mostly Cloudy
-2018-09-15 20:00:00+08:00,31.7,54.0,Breezy and Mostly Cloudy
-2018-09-15 21:00:00+08:00,31.1,55.00000000000001,Overcast
-2018-09-15 22:00:00+08:00,30.6,56.00000000000001,Overcast
-2018-09-15 23:00:00+08:00,30.4,57.99999999999999,Overcast
-2018-09-16 00:00:00+08:00,29.9,59.0,Overcast
-2018-09-16 01:00:00+08:00,29.7,60.0,Overcast
+2018-09-15 14:00:00+08:00,36.9,40.0,Breezy and Partly Cloudy
+2018-09-15 15:00:00+08:00,36.4,41.0,Breezy and Partly Cloudy
+2018-09-15 16:00:00+08:00,35.8,44.0,Breezy and Partly Cloudy
+2018-09-15 17:00:00+08:00,34.6,47.0,Partly Cloudy
+2018-09-15 18:00:00+08:00,33.7,49.0,Partly Cloudy
+2018-09-15 19:00:00+08:00,32.7,51.0,Mostly Cloudy
+2018-09-15 20:00:00+08:00,31.9,53.0,Mostly Cloudy
+2018-09-15 21:00:00+08:00,31.4,55.00000000000001,Mostly Cloudy
+2018-09-15 22:00:00+08:00,30.9,56.00000000000001,Mostly Cloudy
+2018-09-15 23:00:00+08:00,30.5,56.99999999999999,Overcast
+2018-09-16 00:00:00+08:00,30.1,59.0,Overcast
+2018-09-16 01:00:00+08:00,29.8,60.0,Overcast
 2018-09-16 02:00:00+08:00,29.5,60.0,Overcast
-2018-09-16 03:00:00+08:00,29.4,61.0,Overcast
-2018-09-16 04:00:00+08:00,29.4,61.0,Breezy and Overcast
+2018-09-16 03:00:00+08:00,29.4,60.0,Breezy and Overcast
+2018-09-16 04:00:00+08:00,29.4,60.0,Breezy and Overcast
 2018-09-16 05:00:00+08:00,29.5,60.0,Breezy and Overcast
-2018-09-16 06:00:00+08:00,29.3,61.0,Breezy and Overcast
-2018-09-16 07:00:00+08:00,28.7,64.0,Breezy and Overcast
-2018-09-16 08:00:00+08:00,28.0,68.0,Windy and Overcast
-2018-09-16 09:00:00+08:00,27.6,71.0,Windy and Overcast
-2018-09-16 10:00:00+08:00,27.1,76.0,Light Rain and Dangerously Windy
-2018-09-16 11:00:00+08:00,26.6,80.0,Light Rain and Dangerously Windy
-2018-09-16 12:00:00+08:00,26.5,81.0,Rain and Dangerously Windy
-2018-09-16 13:00:00+08:00,26.3,82.0,Rain and Dangerously Windy
-2018-09-16 14:00:00+08:00,26.0,83.0,Rain and Dangerously Windy
-2018-09-16 15:00:00+08:00,25.7,85.0,Rain and Dangerously Windy
-2018-09-16 16:00:00+08:00,25.4,88.0,Rain and Dangerously Windy
-2018-09-16 17:00:00+08:00,25.4,88.0,Heavy Rain and Dangerously Windy
-2018-09-16 18:00:00+08:00,25.4,89.0,Heavy Rain and Dangerously Windy
-2018-09-16 19:00:00+08:00,25.4,89.0,Heavy Rain and Dangerously Windy
-2018-09-16 20:00:00+08:00,25.3,89.0,Heavy Rain and Dangerously Windy
-2018-09-16 21:00:00+08:00,25.2,91.0,Heavy Rain and Dangerously Windy
-2018-09-16 22:00:00+08:00,25.1,91.0,Heavy Rain and Dangerously Windy
-2018-09-16 23:00:00+08:00,25.0,92.0,Heavy Rain and Dangerously Windy
+2018-09-16 06:00:00+08:00,29.4,60.0,Breezy and Overcast
+2018-09-16 07:00:00+08:00,28.9,63.0,Breezy and Overcast
+2018-09-16 08:00:00+08:00,28.4,66.0,Windy and Overcast
+2018-09-16 09:00:00+08:00,27.9,70.0,Light Rain and Dangerously Windy
+2018-09-16 10:00:00+08:00,27.3,75.0,Rain and Dangerously Windy
+2018-09-16 11:00:00+08:00,26.6,79.0,Rain and Dangerously Windy
+2018-09-16 12:00:00+08:00,26.3,81.0,Rain and Dangerously Windy
+2018-09-16 13:00:00+08:00,25.9,82.0,Rain and Dangerously Windy
+2018-09-16 14:00:00+08:00,25.5,84.0,Rain and Dangerously Windy
+2018-09-16 15:00:00+08:00,25.4,86.0,Heavy Rain and Dangerously Windy
+2018-09-16 16:00:00+08:00,25.3,89.0,Heavy Rain and Dangerously Windy
+2018-09-16 17:00:00+08:00,25.5,89.0,Heavy Rain and Dangerously Windy
+2018-09-16 18:00:00+08:00,25.5,89.0,Heavy Rain and Dangerously Windy
+2018-09-16 19:00:00+08:00,25.5,89.0,Heavy Rain and Dangerously Windy
+2018-09-16 20:00:00+08:00,25.4,90.0,Heavy Rain and Dangerously Windy
+2018-09-16 21:00:00+08:00,25.2,92.0,Heavy Rain and Dangerously Windy
+2018-09-16 22:00:00+08:00,25.2,93.0,Heavy Rain and Dangerously Windy
+2018-09-16 23:00:00+08:00,25.0,95.0,Heavy Rain and Dangerously Windy
