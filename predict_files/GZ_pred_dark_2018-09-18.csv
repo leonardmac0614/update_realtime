@@ -1,20 +1,20 @@
 ,TemperatureC,Humidity,Conditions
 2018-09-18 00:00:00+08:00,25.9,89.0,Humid and Partly Cloudy
-2018-09-18 01:00:00+08:00,25.2,92.0,Light Rain
-2018-09-18 02:00:00+08:00,24.5,95.0,Light Rain
-2018-09-18 03:00:00+08:00,24.1,98.0,Light Rain
-2018-09-18 04:00:00+08:00,24.2,99.0,Humid and Overcast
-2018-09-18 05:00:00+08:00,24.8,96.0,Humid and Overcast
-2018-09-18 06:00:00+08:00,25.5,92.0,Humid and Overcast
+2018-09-18 01:00:00+08:00,25.9,89.0,Light Rain
+2018-09-18 02:00:00+08:00,26.1,89.0,Humid and Mostly Cloudy
+2018-09-18 03:00:00+08:00,25.0,93.0,Light Rain
+2018-09-18 04:00:00+08:00,24.8,95.0,Humid and Overcast
+2018-09-18 05:00:00+08:00,25.1,95.0,Humid and Overcast
+2018-09-18 06:00:00+08:00,25.7,91.0,Humid and Overcast
 2018-09-18 07:00:00+08:00,25.9,90.0,Humid and Overcast
-2018-09-18 08:00:00+08:00,26.1,89.0,Humid and Overcast
+2018-09-18 08:00:00+08:00,26.2,90.0,Humid and Overcast
 2018-09-18 09:00:00+08:00,27.1,84.0,Humid and Overcast
 2018-09-18 10:00:00+08:00,28.4,77.0,Humid and Mostly Cloudy
-2018-09-18 11:00:00+08:00,29.4,73.0,Humid and Mostly Cloudy
+2018-09-18 11:00:00+08:00,29.5,72.0,Humid and Mostly Cloudy
 2018-09-18 12:00:00+08:00,29.9,70.0,Humid and Mostly Cloudy
 2018-09-18 13:00:00+08:00,30.2,69.0,Humid and Mostly Cloudy
-2018-09-18 14:00:00+08:00,30.3,68.0,Humid and Mostly Cloudy
-2018-09-18 15:00:00+08:00,31.3,64.0,Humid and Mostly Cloudy
+2018-09-18 14:00:00+08:00,30.6,67.0,Humid and Mostly Cloudy
+2018-09-18 15:00:00+08:00,30.4,68.0,Humid and Mostly Cloudy
 2018-09-18 16:00:00+08:00,31.0,65.0,Humid and Mostly Cloudy
 2018-09-18 17:00:00+08:00,30.3,68.0,Humid and Mostly Cloudy
 2018-09-18 18:00:00+08:00,29.5,71.0,Humid and Mostly Cloudy
@@ -41,7 +41,7 @@
 2018-09-19 15:00:00+08:00,33.0,56.99999999999999,Humid and Partly Cloudy
 2018-09-19 16:00:00+08:00,32.9,56.99999999999999,Humid and Partly Cloudy
 2018-09-19 17:00:00+08:00,32.3,59.0,Humid and Partly Cloudy
-2018-09-19 18:00:00+08:00,31.1,62.0,Humid and Partly Cloudy
+2018-09-19 18:00:00+08:00,31.2,62.0,Humid and Partly Cloudy
 2018-09-19 19:00:00+08:00,29.9,65.0,Humid and Partly Cloudy
 2018-09-19 20:00:00+08:00,28.8,68.0,Partly Cloudy
 2018-09-19 21:00:00+08:00,28.1,71.0,Humid and Mostly Cloudy
