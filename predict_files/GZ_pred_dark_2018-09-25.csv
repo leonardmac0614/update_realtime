@@ -16,11 +16,11 @@
 2018-09-25 14:00:00+08:00,28.9,70.0,Possible Light Rain
 2018-09-25 15:00:00+08:00,29.9,71.0,Possible Light Rain
 2018-09-25 16:00:00+08:00,28.9,70.0,Humid and Mostly Cloudy
-2018-09-25 17:00:00+08:00,28.9,71.0,Humid and Overcast
-2018-09-25 18:00:00+08:00,28.3,73.0,Humid and Overcast
-2018-09-25 19:00:00+08:00,27.3,76.0,Humid and Overcast
-2018-09-25 20:00:00+08:00,26.4,79.0,Humid and Overcast
-2018-09-25 21:00:00+08:00,25.9,80.0,Humid and Mostly Cloudy
+2018-09-25 17:00:00+08:00,28.9,70.0,Humid and Mostly Cloudy
+2018-09-25 18:00:00+08:00,28.9,70.0,Humid
+2018-09-25 19:00:00+08:00,27.7,74.0,Humid and Partly Cloudy
+2018-09-25 20:00:00+08:00,26.7,78.0,Humid and Partly Cloudy
+2018-09-25 21:00:00+08:00,26.0,80.0,Humid and Mostly Cloudy
 2018-09-25 22:00:00+08:00,25.5,82.0,Mostly Cloudy
 2018-09-25 23:00:00+08:00,25.4,81.0,Mostly Cloudy
 2018-09-26 00:00:00+08:00,25.0,83.0,Mostly Cloudy
@@ -31,7 +31,7 @@
 2018-09-26 05:00:00+08:00,25.1,83.0,Mostly Cloudy
 2018-09-26 06:00:00+08:00,25.4,82.0,Mostly Cloudy
 2018-09-26 07:00:00+08:00,25.3,83.0,Mostly Cloudy
-2018-09-26 08:00:00+08:00,25.3,83.0,Humid and Mostly Cloudy
+2018-09-26 08:00:00+08:00,25.4,83.0,Humid and Mostly Cloudy
 2018-09-26 09:00:00+08:00,26.0,81.0,Humid and Partly Cloudy
 2018-09-26 10:00:00+08:00,27.1,77.0,Humid and Partly Cloudy
 2018-09-26 11:00:00+08:00,28.2,73.0,Humid and Partly Cloudy
@@ -41,9 +41,9 @@
 2018-09-26 15:00:00+08:00,31.6,61.0,Humid and Mostly Cloudy
 2018-09-26 16:00:00+08:00,31.5,62.0,Humid and Mostly Cloudy
 2018-09-26 17:00:00+08:00,30.7,65.0,Humid and Mostly Cloudy
-2018-09-26 18:00:00+08:00,29.5,70.0,Possible Light Rain
+2018-09-26 18:00:00+08:00,29.6,70.0,Possible Light Rain
 2018-09-26 19:00:00+08:00,28.0,76.0,Possible Light Rain
 2018-09-26 20:00:00+08:00,26.7,81.0,Rain
 2018-09-26 21:00:00+08:00,25.9,83.0,Possible Light Rain
 2018-09-26 22:00:00+08:00,25.5,83.0,Humid and Partly Cloudy
-2018-09-26 23:00:00+08:00,25.3,82.0,Clear
+2018-09-26 23:00:00+08:00,25.4,82.0,Clear
